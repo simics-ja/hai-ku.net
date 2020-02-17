@@ -1,0 +1,37 @@
+
+/* ------------------------------------------------------------ */
+/* for main contents */
+
+#content_footer
+{
+	
+	top:0;
+	border-top:none;
+	
+}
+
+td
+{
+	
+	text-align:right;
+	
+	border-bottom:1px solid #dddddd;
+	padding:1px 8px 1px 4px;
+	
+}
+
+.name
+{
+	
+	text-align:left;
+	/*
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	*/
+}
+
+#i   {width:40px;}
+#cnt {width:40px;}
+
+/* ------------------------------------------------------------ */
